@@ -1,0 +1,406 @@
+{
+  "navbar-section": {
+    "logo": {
+      "src": "/images/Home/logo.png",
+      "alt": "logo"
+    },
+    "navbar-btns": {
+      "btn-1": "ISCRIVITI",
+      "btn-2": "ORDINA LA CHIAMATA"
+    },
+    "about-me": {
+      "navbar-tite": ["Hai la domanda? Contattami!"],
+      "massengers": "Mob/Viber/Telegram:",
+      "massengers-tel": "+998(99) 777 46 59",
+      "navbar-tel": "+998(66) 231-05-48",
+      "navbar-email": [
+        "saidhon@silkroaddestinations.com",
+        "italiano.b2b@silkroaddestinations.com"
+      ]
+    },
+    "my-images": [
+      {
+        "id": "1",
+        "src": "/said.webp",
+        "alt": "Saidhon",
+        "title": "Saidhon"
+      },
+      {
+        "id": "2",
+        "src": "/jafar.webp",
+        "alt": "Jafar",
+        "title": "Jafar"
+      }
+    ]
+  },
+
+  "home-section": {
+    "home-bg": {
+      "src": "/images/Home/header.webp",
+      "alt": "unknown"
+    },
+    "home-text": {
+      "title": "Fam Trip",
+      "title-text1": "Alla scoperta dell’Uzbekistan",
+      "title-text2": "A prezzo speciale per i professionisti del turismo",
+      "price": "€ 525",
+      "title-text3": "Pagalo e fatti rimborsare alla vendita!",
+      "title-text4": "Il costo dei biglietti aerei è a tue spese"
+    },
+    "btns1": ["16 - 22 Marzo 2022", "03 - 09 Agosto 2022"],
+    "btns2": ["08 - 14 Giugno 2022", "02 - 08 Novembre 2022"]
+  },
+
+  "famVideo-section": {
+    "fam-title": "Vuoi scoprire la nuova destinazione per i tuoi clienti? Investire i tuoi soldi e il tuo tempo per avere successo? Partecipa al nostro Fam Trip in Uzbekistan!",
+
+    "fam-video": {
+      "title": "Video Fam trip",
+      "src": "/images/FAM video/fam.jpg"
+    },
+
+    "FamText": [
+      {
+        "id": 1,
+        "title": "Viaggio gratuito",
+        "text": "Dopo un tour di successo, recuperate le vostre spese (biglietto aereo in classe economica, spese FamTour, biglietti del treno) collaborando in modo produttivo con noi, confermando almeno 6 viaggiatori."
+      },
+      {
+        "id": 2,
+        "title": "Tu e il tuo compagno",
+        "text": "Vuoi portare un accompagnatore (amico, familiare, coppia, ecc.)? Hai la possibilità di evitare di viaggiare da solo!"
+      },
+      {
+        "id": 3,
+        "title": "Accompagnamento in italiano",
+        "text": "Sarete accompagnati dalla nostra guida professionale che parla italiano e ha molti anni di esperienza."
+      },
+      {
+        "id": 4,
+        "title": "Turismo responsabile",
+        "text": "Turismo responsabile nel villaggio di Mitan, vincitore del premio «Turismo Responsabile ToDo 2014»"
+      },
+      {
+        "id": 5,
+        "title": "Patrimonio mondiale dell'UNESCO",
+        "text": "Visitate città imperdibili come Samarcanda e Bukhara"
+      },
+      {
+        "id": 6,
+        "title": "Professionisti in 5 destinazioni",
+        "text": "21 anni di esperienza nell'organizzazione di viaggi in Uzbekistan, Turkmenistan, Tagikistan, Kirghizistan e Kazakistan."
+      },
+      {
+        "id": 7,
+        "title": "Boom internazionale di amicizie",
+        "text": "Viaggia con un team multiculturale, costruendo ponti con altre culture e paesi facendo nuovi contatti."
+      },
+      {
+        "id": 8,
+        "title": "Let’s Uzbek Party",
+        "text": "Noi, di Silk Road Destinations, ti invitiamo alla festa d'addio con il nostro team a Samarcanda (ci pensa Silk Road Destinations)."
+      },
+      {
+        "id": 9,
+        "title": "150+",
+        "text": "professionisti del turismo hanno partecipato ai nostri Fam Trip e si sono fatti rimborsare le loro spese."
+      }
+    ]
+  },
+
+  "map-section": {
+    "map-title": "IL PROGRAMMA DEL CIRCUITO «ALLA SCOPERTA DELL’UZBEKISTAN»",
+    "map-text1": "7 GIORNI / 6 NOTTI",
+    "map-text2": "TASHKENT – BUKHARA – IL VILLAGGIO DI MITAN – SAMARCANDA - TASHKENT",
+    "src": "/images/Map/map.webp"
+  },
+
+  "days-section": {
+    "DayText": [
+      {
+        "id": 1,
+        "title": "La visita di Tashkent e il treno per Bukhara.",
+        "text": "Incontro con il nostro team e la visita per la capitale dell’Uzbekistan. Trasferimento alla stazione locale per il treno e partenza per Bukhara."
+      },
+      {
+        "id": 2,
+        "title": "Bukhara.",
+        "text": "La visita della citta` di Bukhara."
+      },
+      {
+        "id": 3,
+        "title": "Bukhara – Mitan – Samarcanda.",
+        "text": "Il giorno dedicato al Turismo Responsabile nel villaggio di Mitan."
+      },
+      {
+        "id": 4,
+        "title": "Samarcanda.",
+        "text": "La visita della citta` di Samarcanda."
+      },
+      {
+        "id": 5,
+        "title": "Samarcanda.",
+        "text": "La visita e Workshop. Cena di arrividerci."
+      },
+      {
+        "id": 6,
+        "title": "Samarcanda – Tashkent.",
+        "text": "La visita della citta` di Tashkent."
+      },
+      {
+        "id": 7,
+        "title": "Tashkent – Italia.",
+        "text": "Organizzazione per il trasferimento all’aeroporto secondo al tuo operativo del volo. Il volo per Italia."
+      }
+    ],
+
+    "button-text": {
+      "href": "",
+      "text": "SCARICARE IL PROGRAMMA DETTAGLIATO"
+    }
+  },
+
+  "about-section": {
+    "about-title": "FAM TRIP DA NON PERDERE… COME MAI?",
+
+    "AboutText": [
+      {
+        "id": 1,
+        "title": "Il prezzo totale del tour viene rimborsato.",
+        "text": "Silk road Destinations rimborserà i vostri soldi investiti in questo tour per 6 clienti confermati. Noi rimborsiamo per i servizi terrestri e per il volo internazionale."
+      },
+      {
+        "id": 2,
+        "title": "Il tuo compagno di viaggio...",
+        "text": "Approfittate del prezzo AGV per il vostro compagno. Risparmiate più di 400 euro sul viaggio del vostro compagno rispetto al prezzo pubblico."
+      },
+      {
+        "id": 3,
+        "title": "Un fornitore misterioso?",
+        "text1": "No, Silk Road Destinations è un vero partner nell'elaborazione dei vostri programmi. Scambio di idee, condivisione di esperienze, coesione con tutta la nostra squadra durante il Workshop a Samarcanda e durante Fam Trip.",
+        "text2": "Fam Trip finisce, tu vai a casa ma... noi restiamo al tuo fianco. Sempre disponibile a partecipare alla creazione del tuo prodotto viaggi in Uzbekistan e Asia Centrale, e con la massima attenzione per i tuoi clienti durante il loro viaggio.",
+        "text3": "20 anni di esperienza = 40.000 viaggiatori soddisfatti dopo la creazione di Fam Trip",
+        "text4": "Esperti polivalenti – partenze garantite, viaggi su misura, viaggi per piccoli gruppi, MICE, creazione e gestione di progetti di turismo responsabile e solidale, operativi in tutta l'Asia Centrale."
+      },
+      {
+        "id": 4,
+        "title": "Sii alla moda...",
+        "text": "Vi distinguete per prodotti insoliti. La vostra esperienza rafforza lo sviluppo del vostro business. Guidate perfettamente i vostri clienti attraverso i prodotti d'avventura. Affrontate l'influenza dei media che distorcono la realtà, offrite Uzbekistan."
+      },
+      {
+        "id": 5,
+        "title": "Lavoro o divertimento?",
+        "text": "Niente lavoro, né svago. Ma piacere puro, incontri autentici, sapori, colori, odori, sorrisi ed emozioni... Sì... è possibile mentre si lavora."
+      }
+    ]
+  },
+
+  "comment-section": {
+    "comment-title": "Dicono di noi",
+    "CommentText": [
+      {
+        "id": 1,
+        "img": "img_01.jpg",
+        "text1": "Vorrei ringraziare di tutto cuore il vostro staff per l'ottima organizzazione e per la disponibilitа dimostrata. Un plauso particolare alla mia guida e al reparto \"italiano\" de Silk Road Destinations. Un augurio particolarissimo a te, all'altra ragazza del reparto Italia e a Vladimir che ha dato il meglio di sè durante tutto il tour.",
+        "text2": "",
+        "text3": "",
+        "name": "— Pierluigi",
+        "data": "Responsabile di produzione – Novembre, 2015."
+      },
+      {
+        "id": 2,
+        "img": "img_02.jpg",
+        "text1": "Ringrazio di nuovo a te e a tutte le persone in mio nome e il nome di mio marito Antonino( simpatico Vladimir, dolcissima Nafisa, Sig. Sergej, tutto lo staff della Silk Road) per averci datto la possibilita' di viverequesta bellissima l'esperienza nella vostra meravigliosa terra.",
+        "text2": "",
+        "text3": "",
+        "name": "— Ada",
+        "data": "Responsabile di produzione – Novembre, 2015."
+      },
+      {
+        "id": 3,
+        "img": "img_03.jpg",
+        "text1": "Volevo ringraziare te e tutto il tuo staff Silk Road Destinations per lottima e calorosa accoglienza. Sono stata molto bene, visto cose interessanti e apprezzato moltissimo la vostra terra.",
+        "text2": "Sono più che sicura di poter portare il primo gruppo in Uzbekistan lanno prossimo, probabilmente per il mese di aprile.",
+        "text3": "",
+        "name": "— Laura",
+        "data": "Responsabile progettazione - Marzo, 2015."
+      },
+      {
+        "id": 4,
+        "img": "img_04.jpg",
+        "text1": "Innanzitutto grazie a te ed a tutti i ragazzi dell'agenzia. Sembrerà retorico, ma ..senza di voi, sarebbe stato diverso e lo penso davvero. Abbiamo conosciuto un Uzbekistan vero e vi ringrazio.",
+        "text2": "",
+        "text3": "",
+        "name": "— Nadette",
+        "data": "Direttrice di agenzia - Agosto, 2015."
+      },
+      {
+        "id": 5,
+        "img": "img_05.jpg",
+        "text1": "Grazie. Grazie per la professionale assistenza che tu, Nodir, Vladimir e tutti gli altri ci hanno dato. Grazie per il prezioso contatto umano che siamo riusciti a stabilire. Sono sicuro che ci sarà la possibilità di organizzare dei gruppi in futuro e di incontrarci di nuovo.",
+        "text2": "",
+        "text3": "",
+        "name": "— Giampaolo",
+        "data": "Titolare dell’agenzia - Marzo, 2015."
+      },
+      {
+        "id": 6,
+        "img": "img_06.jpg",
+        "text1": "Buongiorno da Viaggiando, Tour Operator di Torino. Sicuramente dopo questo tour indroduremo L’Uzbekistan alla nostra clientela…Questa paese e` stato per noi una simpatica scoperta! Grazie di tutto!",
+        "text2": "",
+        "text3": "",
+        "name": "— Elvio",
+        "data": "Responsabile di produzione, giugno 2016."
+      },
+      {
+        "id": 7,
+        "img": "img_07.jpg",
+        "text1": "Devo dire che e` stata un esperienza molto inaspettata. Mi e` piaciuto tanto il rapporto con la gente, che molto cordiale…Sono sicura che ci sara` molto sviluppo per il turismo italiano in Uzbekistan. Grazie mille!",
+        "text2": "",
+        "text3": "",
+        "name": "— Silvia",
+        "data": "Responsabile di produzione, giugno 2016."
+      },
+      {
+        "id": 8,
+        "img": "user.webp",
+        "text1": "Volevo ancora ringraziarvi per la vostra ''squisita''…ospitalita'.....complimenti per la vs organizzazione, molto seria e puntuale e precisa...molto bello e molto interessante il viaggio..",
+        "text2": "",
+        "text3": "",
+        "name": "— Ferruccio",
+        "data": "Titolare dell’agenzia, marzo 2016."
+      },
+      {
+        "id": 9,
+        "img": "user.webp",
+        "text1": "Grazie a Silk Road Destinations e` operatore con quale effettuo questo viaggio che mi sta fornendo I servizi e con quale spero di collaborare in futuro, anzi certamente visto la qualita` degli stessi. Mi auguro di poter presto effettuare un ottimo lavoro qui di portare dei gruppi. Vi posso assicurare che e` un paese tutto da scoprire.",
+        "text2": "",
+        "text3": "",
+        "name": "— Giuseppe",
+        "data": "Titolare dell’agenzia, marzo 2017."
+      },
+      {
+        "id": 10,
+        "img": "user.webp",
+        "text1": "Vogliamo ringraziarti per la tua cortesissima accoglienza e per l'ottima organizzazione offerta da tutto il vostro staff. Un ringraziamento particolare al Boss per averci mostrato la vostra agenzia nei minimi dettagli. Un grazie particolare per il tuo gentile e molto apprezzato pensiero. Veramente una grande e piacevole esperienza in un paese magnifico e con un popolo gentile ed accogliente. Un grande abbraccio da tutti noi.",
+        "text2": "",
+        "text3": "",
+        "name": "— Roberto",
+        "data": "Direttore Commerciale, giugno 2018."
+      }
+    ]
+  },
+
+  "steps-section": {
+    "steps-title": "Come iscriverci?",
+
+    "StepData": [
+      {
+        "id": 1,
+        "text": "Mandi la richiesta di partecipazione al nostro FAM TRIP compilando un modulo."
+      },
+      {
+        "id": 2,
+        "text": "Ti contattiamo entro 24 ore per concludere la tua registrazione."
+      },
+      {
+        "id": 3,
+        "text": "In questo tempo e` bisogna pagare il saldo per garantire la tua prenotazione."
+      },
+      {
+        "id": 4,
+        "text": "Ti mandiamo la conferma del tuo viaggio."
+      },
+      {
+        "id": 5,
+        "text": "Con l’arrivo all’aeroporto ti incontrano la nostra guida parlante italiano e l’autista che ti accompagnano per tutta la durata del tuo viaggio in Uzbekistan."
+      }
+    ],
+
+    "button-text": "COMPILARE IL MODULO"
+  },
+
+  "certificate-section": {
+    "title": "Certificati e licenze",
+    "data": [
+      {
+        "id": 1,
+        "url": "/images/Certificate/sert_01.jpg",
+        "alt": "unknown"
+      },
+      {
+        "id": 2,
+        "url": "/images/Certificate/sert_02.jpg",
+        "alt": "unknown"
+      },
+      {
+        "id": 3,
+        "url": "/images/Certificate/sert_03.jpg",
+        "alt": "unknown"
+      }
+    ]
+  },
+
+  "contact-section": {
+    "contact-title": "Vuoi partecipare? Registrati!",
+    "inputsbBox-title": "Modulo di registrazione:",
+    "InputsLabel": [
+      {
+        "id": 1,
+        "label": "Nome, Cognome",
+        "type": "text"
+      },
+      {
+        "id": 2,
+        "label": "Telefono",
+        "type": "text"
+      },
+      {
+        "id": 3,
+        "label": "Agenzia",
+        "type": "text"
+      },
+      {
+        "id": 4,
+        "label": "E-mail",
+        "type": "text"
+      },
+      {
+        "id": 5,
+        "label": "L’indirizzo dell’agenzia",
+        "type": "text"
+      },
+      {
+        "id": 6,
+        "label": "Web site",
+        "type": "text"
+      },
+      {
+        "id": 7,
+        "label": "Numero di passaporto",
+        "type": "text"
+      },
+      {
+        "id": 8,
+        "label": "Scegli la data di partenza",
+        "type": "text",
+        "list": [
+          "Scegli la data di partenza",
+          "03 - 09 Novembre 2021",
+          "03 - 09 Novembre 2021",
+          "08 - 14 Giugno 2022",
+          "03 - 09 Agosto 2022",
+          "02 - 08 Novembre 2022"
+        ]
+      }
+    ],
+    "input-text": "REGISTRATI"
+  },
+
+  "footer-button": {
+    "content-title": "Möchten Sie Ihre Inforeise schon bezahlen?",
+    "content-btn": "KLICKEN SIE HIER!"
+  },
+
+  "footer-section": {}
+}
